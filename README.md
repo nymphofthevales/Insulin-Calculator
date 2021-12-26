@@ -5,3 +5,5 @@ Currently uses magic numbers for carb ratios, meal size, correction factor etc, 
 when I was first diagnosed with T1D (shortly before I wrote this app).
 
 Live version available to try at https://nymphofthevales.com/content/insulin/.
+
+<p>Complete.</p>
